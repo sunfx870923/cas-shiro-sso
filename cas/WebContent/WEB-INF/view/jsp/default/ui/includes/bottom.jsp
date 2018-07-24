@@ -23,9 +23,8 @@
       </div> <!-- END #content -->
       
       <footer>
-        <div id="copyright">
-          <p><spring:message code="copyright" /></p>
-          <p>Powered by <a href="http://www.jasig.org/cas">Jasig Central Authentication Service <%=org.jasig.cas.CasVersion.getVersion()%></a></p>
+        <div id="copyright" style="margin-top: 10px;">
+          <p><spring:message code="copyright" /> Powered by <a href="http://www.jasig.org/cas">Jasig Central Authentication Service <%=org.jasig.cas.CasVersion.getVersion()%></a></p>
         </div>
       </footer>
 
