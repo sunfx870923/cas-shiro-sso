@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cas_new:war">
+    <output-path>$PROJECT_DIR$/cas_new/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cas_new</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cas_new-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cas_new:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,23 @@
+Performance Statistics   2019-04-21 22:57:00 - 2019-04-21 22:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                           705.0         705         705         0.0           1
+CREATE_TICKET_GRANTING_TICKET                          711.0         711         711         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                          10.0          10          10         0.0           1
+
+Performance Statistics   2019-04-21 22:58:00 - 2019-04-21 22:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-04-21 22:59:00 - 2019-04-21 23:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                            17.0          17          17         0.0           1
+CREATE_TICKET_GRANTING_TICKET                           19.0          19          19         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                           0.0           0           0         0.0           1
+GRANT_SERVICE_TICKET                                     0.6           0           4         1.4           7
+VALIDATE_SERVICE_TICKET                                  1.1           0           7         2.4           7
+
+Performance Statistics   2019-04-21 23:00:00 - 2019-04-21 23:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-04-21 23:01:00 - 2019-04-21 23:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
