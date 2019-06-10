@@ -128,7 +128,8 @@
       logger to System.out.
     -->
     <root>
-        <level value="INFO" />
+        <level value="DEBUG" />
         <appender-ref ref="cas" />
     </root>
+
 </log4j:configuration>
