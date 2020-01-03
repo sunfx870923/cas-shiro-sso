@@ -5,7 +5,7 @@
     <groupId>com.sunfx</groupId>
     <artifactId>cas-shiro-sso</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
 
     <modules>
         <module>cas</module>
